@@ -1,4 +1,4 @@
-// package acdc asks if you're ready to rock
+// Package acdc asks if you're ready to rock
 package acdc
 
 // Sum adds an unlimited number of balues of type int
